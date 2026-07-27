@@ -7,7 +7,7 @@ def home():
     return """
     <html>
     <body style="font-family: Arial; text-align: center; padding: 50px;">
-        <h1>Hello from ECS Fargate!</h1>
+        <h1>Hello from ECS Fargate - Version 2!</h1>
         <p>Running inside a Docker container on AWS ECS Fargate.</p>
         <p>Deployed automatically via GitHub Actions and Terraform.</p>
         <p>Built by <strong>Rukayat Alarape</strong></p>
